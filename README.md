@@ -1,2 +1,2 @@
 # Zuri-Creating-and-Using-Python-Packages
-Rock, Paper, Scissors, Game
+Rock, Paper, Scissors Game
